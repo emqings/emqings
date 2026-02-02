@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/emqings/emqings/assets/jokebear_banner.png">
+<img src="assets/jokebear_banner.png">
 </div>
 <br><br>
-<div>
+<div align="center">
 <pre>
     ⋆꩜˚⟡˖ hi, i`m emma! thanks for stopping by! ^_^
     ⋆꩜˚⟡˖ compsci + proj management @ uofg
