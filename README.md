@@ -1,7 +1,6 @@
 <div align="center">
 <img src="assets/jokebear_banner.png">
 </div>
-<br><br>
 <div align="center">
 <pre>
     ⋆꩜˚⟡˖ hi, i`m emma! thanks for stopping by! ^_^
@@ -11,9 +10,5 @@
     ⋆꩜˚⟡˖ currently working on: con cata
 
 </pre>
-<br>
-<br><br>
-    
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/em-qing-humphreys/) 
-
 </div>
