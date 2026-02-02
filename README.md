@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+<img src="https://raw.githubusercontent.com/emqings/emqings/assets/jokebear_banner.png">
+</div>
+<br><br>
+<div>
+<pre>
+    ⋆꩜˚⟡˖ hi, i`m emma! thanks for stopping by! ^_^
+    ⋆꩜˚⟡˖ compsci + proj management @ uofg
+    ⋆꩜˚⟡˖ ux/ui • full-stack development • front-end focused 
+    ⋆꩜˚⟡˖ react • c • java • html + css
+    ⋆꩜˚⟡˖ currently working on: con cata
 
-<!--
-**emqings/emqings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</pre>
+<br>
+<br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/em-qing-humphreys/) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
